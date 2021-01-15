@@ -16,10 +16,15 @@ Install ccnet by running:
 
     pip install ccnet
 
+Example
+-------
+
+To be constructed ...
+
 Contribute
 ----------
 
-- Source Code: github.com/$project/$project
+- Source Code: https://github.com/Just-Jia/ccNet.git
 
 Contacts
 -------
