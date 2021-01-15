@@ -1,13 +1,7 @@
-$ccnet
+ccnet
 ========
 
-$cell-cell Network, a network-based data analysis framework.
-
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
+cell-cell Network, a network-based data analysis framework.
 
 Features
 --------
@@ -18,23 +12,22 @@ Features
 Installation
 ------------
 
-Install $project by running:
+Install ccnet by running:
 
-    install project
+    pip install ccnet
 
 Contribute
 ----------
 
-- Issue Tracker: github.com/$project/$project/issues
 - Source Code: github.com/$project/$project
 
-Support
+Contacts
 -------
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+If you are having issues, please let me know.
+My email: junbo_jia@163.com
 
 License
 -------
 
-The project is licensed under the BSD license.
+The project is licensed under the GNU GPLv3 license.
