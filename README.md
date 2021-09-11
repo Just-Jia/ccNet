@@ -20,7 +20,7 @@ Or, to build and install run from source:
 
 ## Usage
 
-For the usage of *ccnet*, please refer to example, where we introduce the relevant analysis steps, including visualization, clustering, pseudotime ordering, finding trajectory-associated genes, etc.
+For the usage of *ccnet*, please refer to the [example](example/example_guo2010.ipynb), where we introduce the relevant analysis steps, including visualization, clustering, pseudotime ordering, finding trajectory-associated genes, etc.
 
 ## Contribute
 
