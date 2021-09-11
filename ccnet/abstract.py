@@ -1,1 +1,0 @@
-# calculate the abstractin of a network
