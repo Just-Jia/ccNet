@@ -5,14 +5,15 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="ccnet", # Replace with your own username
-    version="1.0.0",
+    version="1.0.1",
     author="Junbo Jia",
     author_email="junbo_jia@163.com",
     description="A network-based single-cell RNA-seq data analysis library",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Just-Jia/ccNet",
-    packages=setuptools.find_packages(),
+    packages=setuptools.find_packages(where="ccnet"),
+    package_dir={"": "ccnet"},
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
