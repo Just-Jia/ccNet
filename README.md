@@ -1,6 +1,6 @@
 # ccnet
 
-*Ccnet*, cell-cell network, is a single-cell RNA sequencing data analysis package based on non-uniform epsilon-neighborhood network (NEN) [Bioinformatics, 2022](https://doi.org/10.1093/bioinformatics/btac114).
+*Ccnet*, cell-cell network, is a single-cell RNA sequencing data analysis package based on non-uniform epsilon-neighborhood network (NEN) [(Bioinformatics, 2022)](https://doi.org/10.1093/bioinformatics/btac114).
 
 ## Features
 
@@ -29,6 +29,10 @@ Source Code: [https://github.com/Just-Jia/ccNet.git](https://github.com/Just-Jia
 ## Contacts
 
 My email: junbo_jia@163.com
+
+## Cite
+Junbo Jia, Luonan Chen, Single-cell RNA sequencing data analysis based on non-uniform ε−neighborhood network, Bioinformatics, 2022;, btac114,
+doi:[https://doi.org/10.1093/bioinformatics/btac114](https://doi.org/10.1093/bioinformatics/btac114)
 
 ## License
 
